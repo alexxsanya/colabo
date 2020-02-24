@@ -1,0 +1,22 @@
+{
+  "name": "collabo",
+  "version": "1.0.0",
+  "description": "A test project to level up on working on a single codebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexxsanya/colabo.git"
+  },
+  "keywords": [
+    "collaboration"
+  ],
+  "author": "alexxsanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexxsanya/colabo/issues"
+  },
+  "homepage": "https://github.com/alexxsanya/colabo#readme"
+}
